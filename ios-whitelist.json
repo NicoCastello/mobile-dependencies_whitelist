@@ -810,8 +810,8 @@
     },
     {
       "name": "MLWebkit",
-      "source": "private",
-      "target": "production",
+      "source": "public",
+      "target": "test",
       "version": null
     },
     {
