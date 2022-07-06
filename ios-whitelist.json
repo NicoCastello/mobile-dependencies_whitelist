@@ -812,7 +812,7 @@
       "name": "MLWebkit",
       "source": "private",
       "target": "production",
-      "version": "1.4.5"
+      "version": null
     },
     {
       "name": "MLUINavigationCP",
