@@ -811,7 +811,7 @@
     {
       "name": "MLWebkit",
       "source": "private",
-      "target": "test",
+      "target": "production",
       "version": null
     },
     {
